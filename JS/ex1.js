@@ -1,3 +1,8 @@
-console.log("hello world!");
-console.log("my name is harsh");
-console.log("1");
+const button = document.querySelector("#press_button");
+
+function greet() {
+  const name = prompt("What is your name?");
+  alert(`Hello ${name}, nice to see you!`);
+}
+
+button.addEventListener("click", greet);
