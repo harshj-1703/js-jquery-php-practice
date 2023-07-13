@@ -1,0 +1,7 @@
+Promises in JavaScript are a way to handle asynchronous operations and simplify asynchronous code flow. A Promise represents the eventual completion or failure of an asynchronous operation and allows you to chain multiple asynchronous operations together.
+
+The Promise object has three states:
+
+Pending: The initial state before the promise is fulfilled or rejected.
+Fulfilled: The state when the promise is successfully resolved with a value.
+Rejected: The state when the promise encounters an error or is rejected with a reason.
