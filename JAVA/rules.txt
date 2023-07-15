@@ -1,0 +1,8 @@
+use of static is to create only 1 instance in memory dont create repeat instances.
+
+in a file only mani public class can be there and it will same as the file name
+
+inheritence -> parent children
+abstraction -> hide implementations
+encapsulation -> access modifiers with that hide things
+polymorphism -> multiple forms(overloading and overriding , compile time polymorphism run at compile time like overloading and overrighting run at run time like over riding)
